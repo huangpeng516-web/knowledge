@@ -11,14 +11,14 @@
             "id": "2b5d431d53625072",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "工具/obsidian-git同步方案.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "obsidian-git同步方案"
             }
           }
         ]
@@ -194,8 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b5d431d53625072",
+  "active": "7eb57f9b0e67fd30",
   "lastOpenFiles": [
+    "读书笔记/《經濟漩渦》-沈志華.md",
+    "工具/obsidian-git同步方案.md",
+    "工具",
+    "读书笔记",
     "test.md",
     "README.md"
   ]
